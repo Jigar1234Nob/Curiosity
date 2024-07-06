@@ -1,4 +1,4 @@
-# Curiosity
+# Terms Of Service
 Curiosity still needs rules to follow as it's used.
 Rules:
 Not Using the Bot For Swearing
